@@ -51,3 +51,9 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.coolnew-class {
+	font-style: italic;
+font-size: 20px;
+}
+
+
